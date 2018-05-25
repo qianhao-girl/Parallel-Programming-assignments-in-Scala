@@ -1,0 +1,11 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Administrator/AppData/Local/Temp/sbt-structure.xml
+runMain scalashop.VerticalBoxBlurRunner
+test
+compile
+test
+runMain scalashop.VerticalBoxBlurRunner
+ runMain scalashop.HorizontalBoxBlurRunner
+test
+ runMain scalashop.HorizontalBoxBlurRunner
+submit 201428050124@chd.edu.cn l9xgBEcY9P6Q1IYP
+submit 201428050124@chd.edu.cn XNp11KW7pDgsUYFC
