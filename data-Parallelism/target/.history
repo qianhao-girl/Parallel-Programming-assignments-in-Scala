@@ -1,0 +1,6 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Administrator/AppData/Local/Temp/sbt-structure.xml
+test
+submit 201428050124@chd.edu.cn tcqxCwhYmIi4leAT
+runMain KmeansRunner
+runMain kmeans.KMeansRunner
+run-main kmeans.fun.ScalaShop
