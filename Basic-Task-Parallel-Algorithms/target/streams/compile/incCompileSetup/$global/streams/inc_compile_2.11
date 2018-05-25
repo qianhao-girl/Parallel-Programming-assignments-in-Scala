@@ -1,0 +1,669 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+42 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package$DefaultTaskScheduler$$anon$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package$DefaultTaskScheduler.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package$TaskScheduler.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$4.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$5.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$downsweep$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$downsweep$2.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$lineOfSight2$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Leaf$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Leaf.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Node$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Node.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Tree.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$2.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$3.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$3.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$4.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$combinedThreshold$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$moneyThreshold$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$myThreshold$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$totalCoinsThreshold$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$$anonfun$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$$anonfun$2.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$$anonfun$3.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$$anonfun$4.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$$anonfun$1.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$$anonfun$2.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$.class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner.class
+binary dependencies:
+11 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\com\storm-enroute\scalameter-core_2.11\0.6\scalameter-core_2.11-0.6.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\com\storm-enroute\scalameter-core_2.11\0.6\scalameter-core_2.11-0.6.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\com\storm-enroute\scalameter-core_2.11\0.6\scalameter-core_2.11-0.6.jar
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+42 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> common.package
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> common.package$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> common.package$DefaultTaskScheduler
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> common.package$DefaultTaskScheduler$$anon$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> common.package$TaskScheduler
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$4
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$5
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$lineOfSight2$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Leaf
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Leaf$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Node
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Node$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Tree
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$4
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$combinedThreshold$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$moneyThreshold$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$myThreshold$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$totalCoinsThreshold$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChangeRunner
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$4
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$2
+used names:
+422 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> $anon
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> <byname>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> <init>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> ?0
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> A
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> Any
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> AnyRef
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> B
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> Boolean
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> C
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> D
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> DefaultTaskScheduler
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> DynamicVariable
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> ForkJoinPool
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> ForkJoinTask
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> Nothing
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> Object
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> RecursiveTask
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> T
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> T1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> T2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> T3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> T4
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> TaskScheduler
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> Thread
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> Tuple2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> Tuple4
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> Unit
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> _root_
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> body
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> common
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> concurrent
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> currentThread
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> execute
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> fork
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> forkJoinPool
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> isInstanceOf
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> java
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> join
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> lang
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> left
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> package
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> parallel
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> right
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> scala
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> schedule
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> scheduler
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> t
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> ta
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> task
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> taskA
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> taskB
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> taskC
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> taskD
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> tb
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> tc
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> td
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> util
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> value
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> %
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> &&
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> *
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> +
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> -
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> ->
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> /
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> <
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> <=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> <byname>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> <init>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> <repeated>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> ==
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> >
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> A
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> A1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> AbstractFunction2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> AbstractFunction3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Any
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> AnyRef
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Array
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> ArrayOps
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> ArrowAssoc
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> B
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Boolean
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> CanBuildFrom
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Class
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> ClassTag
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Coll
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Default
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Double
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Float
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Function1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> IndexOutOfBoundsException
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> IndexedSeq
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Int
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Iterator
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Key
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> KeyValue
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> KeyWithDefault
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Leaf
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> LineOfSight
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> LineOfSightRunner
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> MatchError
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> MeasureBuilder
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Node
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> None
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Nothing
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Object
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Ordering
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Predef
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Product
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Range
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> RichInt
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> S
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> ScalaRunTime
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Serializable
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Some
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Statics
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> String
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> StringContext
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> T
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> T0
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> T1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> T2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> T3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> That
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Tree
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Tuple2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Tuple3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> U
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Unit
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> Warmer
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> _$4
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> _$7
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> _1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> _2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> _hashCode
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> _toString
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> a
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> apply
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> asInstanceOf
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> b
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> benchRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> canBuildFrom
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> common
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> config
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> downsweep
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> downsweepSequential
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> end
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> eq
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> exec
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> finalizeHash
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> floatArrayOps
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> floatHash
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> foreach
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> from
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> i
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> idx
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> immutable
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> input
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> intWrapper
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> isInstanceOf
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> l
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> left
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> length
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> lineOfSight
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> m
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> mA
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> map
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> materializeClassTag
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> max
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> maxPrevious
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> maxWarmupRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> measure
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> mid
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> minWarmupRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> mix
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> ne
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> org
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> output
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> package
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> parLineOfSight
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> parallel
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> partime
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> println
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> r
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> refArrayOps
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> right
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> runtime
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> s
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> scala
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> scalameter
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> seqtime
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> standardConfig
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> startingAngle
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> tL
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> tR
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> threshold
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> toArray
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> toString
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> tree
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> typedProductIterator
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> unchecked
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> until
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> update
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> upsweep
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> upsweepSequential
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> verbose
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> while$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> while$2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> while$3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> withWarmer
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> xs
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> zipWithIndex
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> ||
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> &&
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> *
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> +
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> -
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ->
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> /
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> <=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> <byname>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> <init>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> <repeated>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ==
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> >
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> >=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> A
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Any
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> AnyRef
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Array
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ArrowAssoc
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> B
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Boolean
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Default
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Double
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Function2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Int
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Iter
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Key
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> KeyValue
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> KeyWithDefault
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> List
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> MatchError
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> MeasureBuilder
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Nothing
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Object
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Ordering
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ParallelCountChange
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ParallelCountChangeRunner
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Predef
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> S
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> String
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> StringContext
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> T1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> T2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Threshold
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Tuple2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Unit
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Warmer
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> _1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> _2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> _root_
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> allCoins
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> amount
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> apply
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> benchRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> coins
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> combinedThreshold
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> common
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> config
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> count
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> countChange
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> cs
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> exec
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> fjtime
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> head
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> immutable
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> left
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> length
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> m
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> math
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> maxWarmupRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> measure
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> measureParallelCountChange
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> min
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> minWarmupRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> money
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> moneyThreshold
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> myThreshold
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ne
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> nonEmpty
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> org
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> package
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> parCountChange
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> parResult
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> parResult_=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> parallel
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> println
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> right
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> s
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> scala
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> scalameter
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> seqResult
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> seqResult_=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> seqtime
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> standardConfig
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> startingMoney
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> tail
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> threshold
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> totalCoins
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> totalCoinsThreshold
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> unary_!
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> unchecked
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> verbose
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> withWarmer
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> !=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> &&
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> +
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> -
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ->
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> /
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> <
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> <=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> <byname>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> <init>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> <repeated>
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ==
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> >
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> >=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> A
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Any
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> AnyRef
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Array
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ArrayOps
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ArrowAssoc
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> B
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Boolean
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Char
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Default
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Double
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Int
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Key
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> KeyValue
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> KeyWithDefault
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> MatchError
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> MeasureBuilder
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Nothing
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Object
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancing
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancingRunner
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Predef
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> S
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> String
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> StringContext
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> T1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> T2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> T3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Tuple2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Tuple3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Unit
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Warmer
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> _1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> _2
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> _3
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> acc
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> annotation
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> apply
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> balance
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> benchRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> bl
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> charArrayOps
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> chars
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> chs
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> common
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> config
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> exec
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> fjtime
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> from
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> head
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> helper
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> i
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> idx
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> isEmpty
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> iter
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> left
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> length
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> maxWarmupRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> measure
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> mid
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> minWarmupRuns
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> n
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ne
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> org
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> package
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> parBalance
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> parResult
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> parResult_=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> parallel
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> println
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reduce
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> right
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> s
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> scala
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> scalameter
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> seqResult
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> seqResult_=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> seqtime
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> standardConfig
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> tail
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> threshold
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> traverse
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> unchecked
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> until
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> verbose
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> while$1
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> withWarmer
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ||
+product stamps:
+42 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package$.class -> lastModified(1520493889093)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package$DefaultTaskScheduler$$anon$1.class -> lastModified(1520493889152)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package$DefaultTaskScheduler.class -> lastModified(1520493889122)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package$TaskScheduler.class -> lastModified(1520493889168)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\common\package.class -> lastModified(1520493888847)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$4.class -> lastModified(1520602230663)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$5.class -> lastModified(1520602230690)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$downsweep$1.class -> lastModified(1520602230701)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$downsweep$2.class -> lastModified(1520602230716)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$lineOfSight2$1.class -> lastModified(1520602230737)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$.class -> lastModified(1520602230580)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Leaf$.class -> lastModified(1520602230754)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Leaf.class -> lastModified(1520602230795)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Node$.class -> lastModified(1520602230846)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Node.class -> lastModified(1520602230823)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight$Tree.class -> lastModified(1520602230859)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSight.class -> lastModified(1520602230243)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$1.class -> lastModified(1520602230908)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$2.class -> lastModified(1520602230927)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$3.class -> lastModified(1520602230943)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$.class -> lastModified(1520602230892)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner.class -> lastModified(1520602230870)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$3.class -> lastModified(1520586412918)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$4.class -> lastModified(1520586412983)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$combinedThreshold$1.class -> lastModified(1520586413000)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$moneyThreshold$1.class -> lastModified(1520586413029)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$myThreshold$1.class -> lastModified(1520586413050)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$totalCoinsThreshold$1.class -> lastModified(1520586413062)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$.class -> lastModified(1520586412900)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChange.class -> lastModified(1520586412834)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$$anonfun$1.class -> lastModified(1520586413204)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$$anonfun$2.class -> lastModified(1520586413227)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$.class -> lastModified(1520586413185)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner.class -> lastModified(1520586413074)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$$anonfun$3.class -> lastModified(1520597144878)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$$anonfun$4.class -> lastModified(1520597144915)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$.class -> lastModified(1520597144864)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing.class -> lastModified(1520597144802)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$$anonfun$1.class -> lastModified(1520597144967)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$$anonfun$2.class -> lastModified(1520597144977)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$.class -> lastModified(1520597144957)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner.class -> lastModified(1520597144925)
+source stamps:
+4 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> hash(19ffe96b09c84ba566e866c51bacad3b301b2c11)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> hash(b4c0ed960ee92a9b32a2e56957ba7d5a659719ef)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> hash(8d0c806ed89feec70784889614f9d84518925ef7)
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> hash(826f03dfab99801382d3cab55b61c0aeef3e9820)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar -> lastModified(1505905630519)
+C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\com\storm-enroute\scalameter-core_2.11\0.6\scalameter-core_2.11-0.6.jar -> lastModified(1405518657000)
+C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\com\storm-enroute\scalameter-core_2.11\0.6\scalameter-core_2.11-0.6.jar -> org.scalameter.KeyWithDefault
+C:\Users\Administrator\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+4 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwso2RrgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6466WnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAM60dllnQABHdhaXRzcQB+AAxFEfvWdAAEdGFza3NxAH4ADFdaVZl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLZS+xHQAFERlZmF1bHRUYXNrU2NoZWR1bGVyc3EAfgAM/pUpbXQABmVxdWFsc3NxAH4ADE48rut0AAxhc0luc3RhbmNlT2ZzcQB+AAxHd91ldAAMc3luY2hyb25pemVkc3EAfgAMBJ7vw3QADSRpc0luc3RhbmNlT2ZzcQB+AAzWCh9fdAAMZm9ya0pvaW5Qb29sc3EAfgAMNUekVHQACW5vdGlmeUFsbHNxAH4ADHLyoyJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxPOtqWdAAGPGluaXQ+c3EAfgAMQiN1EHQACXNjaGVkdWxlcnNxAH4ADH8bLs50AAI9PXNxAH4ADM05Ry50AA1UYXNrU2NoZWR1bGVyc3EAfgAMHLnUSnQABWNsb25lc3EAfgAMwf8sL3QACHNjaGVkdWxlc3EAfgAMyRmNSnQACHRvU3RyaW5nc3EAfgAM+6VKv3QAAiE9c3EAfgAMiWCwDXQACGdldENsYXNzc3EAfgAM2TMwbXQAAm5lc3EAfgAMYlMrU3QAAmVxc3EAfgAMn/ZIHXQACHBhcmFsbGVsc3EAfgAMYOwlInQAAiMjc3EAfgAMyHKxL3QACGZpbmFsaXplc3EAfgAME2KubXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AbHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AEoAAAAAc3EAfgBndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWIEf0FudXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGf/pawnIS6Vm6GbFG6ytOzAbLBE=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJdhPDwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA2c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAQYIKHQABm5vdGlmeXNxAH4ADHCgTu50AAd1bmFwcGx5c3EAfgAMBnAByXQAB2N1cnJpZWRzcQB+AAz6ApWBdAAHdXBzd2VlcHNxAH4ADFqixPp0AAR3YWl0c3EAfgAMJ03O3nQADmNvcHkkZGVmYXVsdCQyc3EAfgAMmW6n/3QADSRhc0luc3RhbmNlT2ZzcQB+AAxawHVJdAAMcHJvZHVjdEFyaXR5c3EAfgAMGAZU+3QABmVxdWFsc3NxAH4ADBp6EDF0AAxsaW5lT2ZTaWdodDJzcQB+AAwZ8pNMdAAMYXNJbnN0YW5jZU9mc3EAfgAMOJfLHnQADHN5bmNocm9uaXplZHNxAH4ADGa4jbV0AARsZWZ0c3EAfgAMJyrZRnQABFRyZWVzcQB+AAwarW3hdAANJGlzSW5zdGFuY2VPZnNxAH4ADFzDN0V0AAROb2Rlc3EAfgAMZ+PyJnQAEUxpbmVPZlNpZ2h0UnVubmVyc3EAfgAMKMf3LnQABnR1cGxlZHNxAH4ADM/krnt0ABF1cHN3ZWVwU2VxdWVudGlhbHNxAH4ADFE7t490AAtsaW5lT2ZTaWdodHNxAH4ADAAhY5V0AAhjYW5FcXVhbHNxAH4ADEBmMux0AARtYWluc3EAfgAM1mcCmHQABExlYWZzcQB+AAwHtBdmdAANcHJvZHVjdFByZWZpeHNxAH4ADII2koZ0AAV1bnRpbHNxAH4ADNOxcX50AAlub3RpZnlBbGxzcQB+AAxwbebPdAAMaXNJbnN0YW5jZU9mc3EAfgAMch+NPHQAE2Rvd25zd2VlcFNlcXVlbnRpYWxzcQB+AAyCql4IdAAJZG93bnN3ZWVwc3EAfgAM/FTjVHQABjxpbml0PnNxAH4ADN3Jcp90AANtYXhzcQB+AAxlF8o7dAAOcGFyTGluZU9mU2lnaHRzcQB+AAyIzTbCdAAFYXBwbHlzcQB+AAzf/LQndAACPT1zcQB+AAzprS6GdAAFY2xvbmVzcQB+AAzGrZ8BdAAEZnJvbXNxAH4ADAqaDz90AAYkaW5pdCRzcQB+AAwipVchdAAOY29weSRkZWZhdWx0JDNzcQB+AAwIaq3adAAEY29weXNxAH4ADHlU2VV0AAh0b1N0cmluZ3NxAH4ADL/yAvZ0AA5zdGFuZGFyZENvbmZpZ3NxAH4ADO94ejZ0AAIhPXNxAH4ADOQn9F50AAtMaW5lT2ZTaWdodHNxAH4ADK099H90AAhnZXRDbGFzc3NxAH4ADG4jaFt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMvNqtx0AAJuZXNxAH4ADEYOG/N0AAJlcXNxAH4ADNhgtmJ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx82I7sdAAFcmlnaHRzcQB+AAwsGyWtdAACIyNzcQB+AAwbb52GdAAIZmluYWxpemVzcQB+AAxNn6ZGdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAx+42UBdAAIaGFzaENvZGVzcQB+AAwcbeIWdAALbWF4UHJldmlvdXNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAccmVkdWN0aW9ucy5MaW5lT2ZTaWdodFJ1bm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Am3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AKBzcQB+AJt1cQB+AH4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIRxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+ADl1cQB+AJMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4An3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJ9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALt1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCoeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCWdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCvWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCfc3EAfgCudAAFQXJyYXlxAH4AtHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCudAAGU3RyaW5nc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunQABGphdmFzcQB+ALp0AARsYW5ncQB+AL9zcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXEAfgDTAAAAAnNxAH4ArnQABk9iamVjdHEAfgDXc3EAfgCudAADQW55cQB+ALRzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAWcmVkdWN0aW9ucy5MaW5lT2ZTaWdodHVxAH4AkwAAAABxAH4Al3VxAH4AmQAAAABzcQB+AJtxAH4AoXNxAH4Am3NxAH4Ao3NxAH4Am3VxAH4AfgAAAABzcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXEAfgDTAAAAAnNxAH4ArnEAfgDjc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDbc3EAfgC6cQB+AN1xAH4Av3NxAH4ArnEAfgDlc3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunEAfgC9cQB+AL91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFiCvRgynVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE1DOlxVc2Vyc1xBZG1pbmlzdHJhdG9yXERlc2t0b3BcU2NhbGFXb3JrXHJlZHVjdGlvbnNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLTA7ZYO6SqbMqLlaVe6fVpllxnv
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwm5mv5gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwB4FRMnQABm5vdGlmeXNxAH4ADAyCtWB0AAlUaHJlc2hvbGRzcQB+AAxUhWeMdAAEd2FpdHNxAH4ADBVAn250ABlQYXJhbGxlbENvdW50Q2hhbmdlUnVubmVyc3EAfgAMNEGsHHQADSRhc0luc3RhbmNlT2ZzcQB+AAxxakq8dAAGZXF1YWxzc3EAfgAMrD6SqXQAEWNvbWJpbmVkVGhyZXNob2xkc3EAfgAMY7UMl3QADm1vbmV5VGhyZXNob2xkc3EAfgAMnsgrqHQAC215VGhyZXNob2xkc3EAfgAM/QZn+3QADGFzSW5zdGFuY2VPZnNxAH4ADGakKEN0AAxzeW5jaHJvbml6ZWRzcQB+AAw44PW7dAAJcGFyUmVzdWx0c3EAfgAMFFsshHQADSRpc0luc3RhbmNlT2ZzcQB+AAyJYXpydAATUGFyYWxsZWxDb3VudENoYW5nZXNxAH4ADK2p7ul0AARtYWluc3EAfgAMOItWgnQACW5vdGlmeUFsbHNxAH4ADGnqrTZ0AAxpc0luc3RhbmNlT2ZzcQB+AAxECg7+dAACPT1zcQB+AAzwFA7edAAFY2xvbmVzcQB+AAwDYkS1dAAIdG9TdHJpbmdzcQB+AAzeY0TQdAAOc3RhbmRhcmRDb25maWdzcQB+AAxUfAbjdAACIT1zcQB+AAwnV4xFdAAIZ2V0Q2xhc3NzcQB+AAwZP050dAAJc2VxUmVzdWx0c3EAfgAMJBfOu3QAC2NvdW50Q2hhbmdlc3EAfgAMBgbLzXQAAm5lc3EAfgAM2m2iznQAE3RvdGFsQ29pbnNUaHJlc2hvbGRzcQB+AAxakvp2dAAOcGFyQ291bnRDaGFuZ2VzcQB+AAz9d4NPdAACZXFzcQB+AAylBRthdAACIyNzcQB+AAzaj6K7dAAIZmluYWxpemVzcQB+AAwnr2XfdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAkcmVkdWN0aW9ucy5QYXJhbGxlbENvdW50Q2hhbmdlUnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBvc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdHNxAH4Ab3VxAH4AUgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AWHEAfgBhdXEAfgBiAAAAAHNxAH4AZABxAH4AK3VxAH4AZwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBzdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ac3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGp0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AINbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHNzcQB+AIJ0AAVBcnJheXEAfgCIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIJ0AAZTdHJpbmdzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOdAAEamF2YXNxAH4AjnQABGxhbmdxAH4Ak3NxAH4Ab3VxAH4AUgAAAABzcQB+AG91cQB+AKcAAAACc3EAfgCCdAAGT2JqZWN0cQB+AKtzcQB+AIJ0AANBbnlxAH4AiHNxAH4AVHEAfgBhdXEAfgBiAAAAAHNxAH4AZAB0AB5yZWR1Y3Rpb25zLlBhcmFsbGVsQ291bnRDaGFuZ2V1cQB+AGcAAAAAcQB+AGt1cQB+AG0AAAAAc3EAfgBvcQB+AHVzcQB+AG9zcQB+AHdzcQB+AG91cQB+AFIAAAAAc3EAfgBvdXEAfgBSAAAAAHNxAH4Ab3VxAH4ApwAAAAJzcQB+AIJxAH4At3NxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI5xAH4Ar3NxAH4AjnEAfgCxcQB+AJNzcQB+AIJxAH4AuXNxAH4AhnNxAH4AiXVxAH4AjAAAAAJzcQB+AI5xAH4AkXEAfgCTdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKcmVkdWN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgoDS0R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNQzpcVXNlcnNcQWRtaW5pc3RyYXRvclxEZXNrdG9wXFNjYWxhV29ya1xyZWR1Y3Rpb25zXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSNDIBu2J/uxweEiJYU+dhFGJJe9w==
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwxGV/kwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwierQkXQABm5vdGlmeXNxAH4ADIU5gCt0AAhiYWxhbmNlMnNxAH4ADI9BLVp0AAR3YWl0c3EAfgAMfOt8KnQADSRhc0luc3RhbmNlT2ZzcQB+AAwapKgYdAAGZXF1YWxzc3EAfgAMjFeu13QADGFzSW5zdGFuY2VPZnNxAH4ADE3e/hN0AAxzeW5jaHJvbml6ZWRzcQB+AAz5Ay9SdAAJcGFyUmVzdWx0c3EAfgAM2VETgnQADSRpc0luc3RhbmNlT2ZzcQB+AAxynffBdAAKcGFyQmFsYW5jZXNxAH4ADO/uaat0AAdiYWxhbmNlc3EAfgAMK9K84XQABG1haW5zcQB+AAxHpqYsdAAJbm90aWZ5QWxsc3EAfgAMEN++h3QADGlzSW5zdGFuY2VPZnNxAH4ADGEEOmN0AAI9PXNxAH4ADIQ6DCl0AAVjbG9uZXNxAH4ADFqLlnt0ACJQYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5nUnVubmVyc3EAfgAMg5NwwXQACHRvU3RyaW5nc3EAfgAMk6XZcnQADnN0YW5kYXJkQ29uZmlnc3EAfgAMOv2y/XQAAiE9c3EAfgAMb8yAUXQACGdldENsYXNzc3EAfgAMrqNWKHQACXNlcVJlc3VsdHNxAH4ADOzy5XZ0AAJuZXNxAH4ADCLXOFV0AAJlcXNxAH4ADHNg9oN0AAIjI3NxAH4ADIW7ZyN0AAhmaW5hbGl6ZXNxAH4ADK7EEVx0AAhoYXNoQ29kZXNxAH4ADEWi2DB0ABxQYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5nc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQALXJlZHVjdGlvbnMuUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ1J1bm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AGxzcQB+AGd1cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+ACV1cQB+AF8AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AId1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB0eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBidAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBrc3EAfgB6dAAFQXJyYXlxAH4AgHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB6dAAGU3RyaW5nc3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnQABGphdmFzcQB+AIZ0AARsYW5ncQB+AItzcQB+AGd1cQB+AEoAAAAAc3EAfgBndXEAfgCfAAAAAnNxAH4AenQABk9iamVjdHEAfgCjc3EAfgB6dAADQW55cQB+AIBzcQB+AExxAH4AWXVxAH4AWgAAAABzcQB+AFwAdAAncmVkdWN0aW9ucy5QYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5ndXEAfgBfAAAAAHEAfgBjdXEAfgBlAAAAAHNxAH4AZ3EAfgBtc3EAfgBnc3EAfgBvc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AJ8AAAACc3EAfgB6cQB+AK9zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AKdzcQB+AIZxAH4AqXEAfgCLc3EAfgB6cQB+ALFzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AIlxAH4Ai3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWIKpwindXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUgm8D36uZgBOC08q1W2HAru8+mCA=
+external apis:
+0 items
+source infos:
+4 items
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\LineOfSight.scala -> 
+AAAAAAAAAAA=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelCountChange.scala -> 
+AAAAAAAAAAA=
+C:\Users\Administrator\Desktop\ScalaWork\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> 
+AAAAAAAAAAA=
+compilations:
+20 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgR/QW51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgSGF6R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgSOFgt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgSZcw91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgn8SY51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgoDS0R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgpMa2h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgpeIRN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgpkCod1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgp8Kyh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgqBWCV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgqnCKd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgq3l7t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgq5WE51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgq8rNt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgq9/Pt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgq+9951cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgrMo1N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgriK/91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYgr0YMp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxTY2FsYVdvcmtccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mLineOfSightSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- lineOfSight should correctly handle an array of size 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- upsweepSequential should correctly handle the chunk 1 until 4 of an array of 4 elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- downsweepSequential should correctly handle a 4 element array when the starting angle is zero[0m[0m
+[0m[[0minfo[0m] [0m[31m- downsweep should correctly compute the output for a non-zero starting angle *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  List(0.0, 2.0, 4.0, 4.0) did not equal List(2.0, 2.0, 4.0, 4.0) (LineOfSightSuite.scala:36)[0m[0m

@@ -1,0 +1,11 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Administrator/AppData/Local/Temp/sbt-structure.xml
+runMain reductions.ParallelCountChangeRunner
+tet
+test
+submit 201428050124@chd.edu.cn aVWOjEwulwTOXmMd
+submit 201428050124@chd.edu.cn R8o9lQj74VMEfaf3
+test
+submit 201428050124@chd.edu.cn FGxRRRtavvo2cdot
+runMain reductions.LineOfSightRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.LineOfSightRunner
